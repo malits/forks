@@ -1,6 +1,0 @@
-username = "maxlitster"
-playlist_id = "4wASirwNYpp0dZUnUbtK39"
-client_id = "d00c18a2f0f54012be7908f3cd667608"
-client_secret = "408bd3199b57440e8346354030d48529"
-
-maxlitster 4wASirwNYpp0dZUnUbtK39 d00c18a2f0f54012be7908f3cd667608 408bd3199b57440e8346354030d48529
